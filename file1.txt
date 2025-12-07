@@ -1,1 +1,1 @@
-new line of file1.txt
+new line of file1
